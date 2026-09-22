@@ -22,5 +22,5 @@ Read [SKILL.md](SKILL.md) first, then load only the relevant files under `refere
 
 ## Origin
 
-The local version retains the `easyeda-schematic-net-fanout` identity and integrates experience derived from the EasyEDA enhanced schematic and API Skill projects. Upstream attribution remains documented in the Chinese README and Skill source. This private repository does not claim upstream work as original local authorship.
+The local version retains the `easyeda-schematic-net-fanout` identity and integrates experience derived from the EasyEDA enhanced schematic and API Skill projects. Upstream attribution remains documented in the Chinese README and Skill source. This public repository does not claim upstream work as original local authorship.
 
